@@ -1,0 +1,14 @@
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\bin\Final\EOA.exe.config
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\bin\Final\EOA.exe.manifest
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\bin\Final\EOA.application
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\bin\Final\EOA.exe
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Final\ResolveAssemblyReference.cache
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Final\EOA.About.resources
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Final\EOA.Aurora.resources
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Final\EOA.Resources.resources
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Final\GenerateResource.read.1.tlog
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Final\GenerateResource.write.1.tlog
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Final\EOA.TrustInfo.xml
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Final\EOA.exe.manifest
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Final\EOA.application
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Final\EOA.exe

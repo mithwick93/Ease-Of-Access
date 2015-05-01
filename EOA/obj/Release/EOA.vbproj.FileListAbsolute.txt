@@ -1,0 +1,33 @@
+D:\Documents\Visual studio 2010\Projects\EOA\EOA\bin\Release\EOA.exe.config
+D:\Documents\Visual studio 2010\Projects\EOA\EOA\bin\Release\EOA.exe.manifest
+D:\Documents\Visual studio 2010\Projects\EOA\EOA\bin\Release\EOA.application
+D:\Documents\Visual studio 2010\Projects\EOA\EOA\bin\Release\EOA.exe
+D:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Release\EOA.Aurora.resources
+D:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Release\EOA.Resources.resources
+D:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Release\EOA.TrustInfo.xml
+D:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Release\EOA.exe.manifest
+D:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Release\EOA.application
+D:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Release\EOA.exe
+D:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Release\EOA.About.resources
+D:\Documents\Visual studio 2010\Projects\EOA\EOA\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Documents\Visual studio 2010\Projects\EOA\EOA\bin\Release\System.dll
+D:\Documents\Visual studio 2010\Projects\EOA\EOA\bin\Release\System.Drawing.dll
+D:\Documents\Visual studio 2010\Projects\EOA\EOA\bin\Release\System.Windows.Forms.dll
+D:\Documents\Visual studio 2010\Projects\EOA\EOA\bin\Release\System.Xml.dll
+D:\Documents\Visual studio 2010\Projects\EOA\EOA\bin\Release\System.Xml.Linq.dll
+D:\Documents\Visual studio 2010\Projects\EOA\EOA\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Release\EOA.vbproj.GenerateResource.Cache
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Release\ResolveAssemblyReference.cache
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Release\GenerateResource.read.1.tlog
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Release\GenerateResource.write.1.tlog
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\bin\Release\Aurora Easy Access.exe.config
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\bin\Release\Aurora Easy Access.exe.manifest
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\bin\Release\Aurora Easy Access.application
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\bin\Release\Aurora Easy Access.exe
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Release\Aurora Easy Access.TrustInfo.xml
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Release\Aurora Easy Access.exe.manifest
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Release\Aurora Easy Access.application
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Release\Aurora Easy Access.exe
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Release\Aurora_Easy_Access.About.resources
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Release\Aurora_Easy_Access.Aurora.resources
+E:\Documents\Visual studio 2010\Projects\EOA\EOA\obj\Release\Aurora_Easy_Access.Resources.resources
